@@ -1,0 +1,10 @@
+com\study\org\controller\UserController.class
+com\study\org\OnlineLearningApplication.class
+com\study\org\repository\RegistrationRepository.class
+com\study\org\service\RegistrationService.class
+com\study\org\exception\ResourceNotFoundException.class
+com\study\org\repository\UserRepository.class
+com\study\org\controller\RegistrationController.class
+com\study\org\exception\ErrorDetails.class
+com\study\org\model\User.class
+com\study\org\exception\GlobalExceptionHandler.class
